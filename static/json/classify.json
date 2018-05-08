@@ -1,0 +1,97 @@
+{
+  "one":[
+    {
+      "name":"小说",
+      "display":false,
+      "content":[
+        {"name":"言情"},
+        {"name":"都市"},
+        {"name":"历史"},
+        {"name":"青春"},
+        {"name":"军事"},
+        {"name":"科幻"},
+        {"name":"官场商战"},
+        {"name":"悬疑推理"},
+        {"name":"武侠魔幻"},
+        {"name":"灵异恐怖"},
+        {"name":"社会乡土"},
+        {"name":"影视文学"},
+        {"name":"现当代小说"},
+        {"name":"外国文学"},
+        {"name":"其他"}
+      ]
+    },
+    {
+      "name":"经济管理",
+      "display":false,
+      "content":[
+        {"name":"企业管理"},
+        {"name":"财会统计"}
+      ]
+    },
+    {
+      "name":"成功励志",
+      "display":false,
+      "content":[
+        {"name":"成功学"},
+        {"name":"人在职场"},
+        {"name":"演讲口才"},
+        {"name":"人际处事"},
+        {"name":"心灵修养"},
+        {"name":"性格与情绪"},
+        {"name":"青少年励志"}
+      ]
+    },
+    {
+      "name":"历史传记",
+      "display":false,
+      "content":[
+        {"name":"人物传记"},
+        {"name":"普及读物"},
+        {"name":"世界各国史"},
+        {"name":"中国史"}
+      ]
+    },
+    {
+      "name":"计算机",
+      "display":false,
+      "content":[
+        {"name":"软硬件开发"},
+        {"name":"图形与图像"},
+        {"name":"网络与通信"},
+        {"name":"家庭与办公"},
+        {"name":"IT人文"},
+        {"name":"其它"}
+      ]
+    },
+    {
+      "name":"生活",
+      "display":false,
+      "content":[
+        {"name":"烹调饮食"},
+        {"name":"休闲娱乐"},
+        {"name":"健康养生"},
+        {"name":"占星风水"},
+        {"name":"时尚摄影"},
+        {"name":"家居手工"},
+        {"name":"美容塑身"},
+        {"name":"运动健身"},
+        {"name":"旅游地理"}
+      ]
+    }
+  ],
+  "two":[
+    {"id":1,"hot":1,"new":"3","number":"12","price":6.7,"imgUrl":"../static/img/classify/1.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":2,"hot":3,"new":"1","number":"11","price":4.6,"imgUrl":"../static/img/classify/2.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":3,"hot":2,"new":"2","number":"1","price":3.4,"imgUrl":"../static/img/classify/3.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":4,"hot":10,"new":"10","number":"3","price":5.5,"imgUrl":"../static/img/classify/4.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":5,"hot":12,"new":"21","number":"6","price":5.7,"imgUrl":"../static/img/classify/5.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":6,"hot":11,"new":"16","number":"3","price":8.7,"imgUrl":"../static/img/classify/6.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":7,"hot":15,"new":"13","number":"2","price":24,"imgUrl":"../static/img/classify/7.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":8,"hot":21,"new":"19","number":"21","price":2,"imgUrl":"../static/img/classify/8.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":9,"hot":18,"new":"15","number":"23","price":8,"imgUrl":"../static/img/classify/9.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":10,"hot":19,"new":"31","number":"25","price":7,"imgUrl":"../static/img/classify/10.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":11,"hot":31,"new":"14","number":"13","price":18,"imgUrl":"../static/img/classify/11.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"},
+    {"id":12,"hot":21,"new":"1","number":"16","price":5,"imgUrl":"../static/img/classify/12.jpg","title":"我和我的猫都在想你","intro":"this is a good book","worker":"公子凉夜"}
+  ]
+}
